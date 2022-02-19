@@ -5,4 +5,3 @@ Steps to reproduce
 Severity
 Priority
 
-
